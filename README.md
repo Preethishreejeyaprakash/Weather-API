@@ -35,7 +35,7 @@ Weather Body
 Weather Display: Initially hidden, this section shows the weather image, temperature, description, humidity, and wind speed once data is available.Weather Box
 Temperature and Description: Center-aligned text showing the temperature and weather description with specified font sizes and weights.
 
-# javascript Structure
+# Javascript Structure
 
 API Key: Ensure the API key is valid and replace it if necessary.
 Image Paths: Ensure the paths for the weather images (cloud.png, clear.png, rain.png, mist.png, snow.png) are correct.
